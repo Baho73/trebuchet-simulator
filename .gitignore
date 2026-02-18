@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+venv/
+.venv/
+*.egg-info/
+optimization_checkpoint.json
+optimization_results.json
+*.mp4
+nul
