@@ -1,6 +1,6 @@
 # Trebuchet Simulator
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-Optimization-8CAAE6?logo=scipy) ![License: MIT](https://img.shields.io/github/license/Baho73/trebuchet-simulator)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-Optimization-8CAAE6?logo=scipy) ![License: MIT](https://img.shields.io/github/license/Baho73/trebuchet-simulator) ![CI](https://github.com/Baho73/trebuchet-simulator/actions/workflows/ci.yml/badge.svg)
 
 Physics-based trebuchet simulator with 4 degrees of freedom, symbolic equation derivation via SymPy, and automated design optimization using genetic algorithms.
 
